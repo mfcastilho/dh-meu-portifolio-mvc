@@ -97,6 +97,9 @@ html {
     cursor: pointer;
 }
 
+.mvc-button{
+    color: #777;
+}
 .mvc-button:hover {
     color: #000 !important;
     background-color: #ccc !important;
@@ -113,6 +116,7 @@ html {
     border: none;
     display: block;
     outline: 0;
+    color: #777;
 }
 
 @media only screen and (max-device-width: 1600px) {
