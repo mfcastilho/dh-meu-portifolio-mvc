@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mfcastilho/dh-meu-portifolio-mvc/issues"
   },
-  "homepage": "https://github.com/mfcastilho/dh-meu-portifolio-mvc#readme"
+  "homepage": "https://github.com/mfcastilho/dh-meu-portifolio-mvc#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
